@@ -1,4 +1,5 @@
-Multi-Stage Classification - Cancer Metastasis
+# Multi-Stage Classification - Cancer Metastasis
+
 Breast cancer, as a primary tumour, is well-know to cause secondary tumours in brain, bone, liver
 and lung. The datasets, obtained from Gene Ex-pression Omnibus (GEO), having accession number
 GSE 14020 contains 65 samples of dierent metas-tases of Breast Cancer. Specifically, these samples
